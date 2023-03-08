@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class baitaphotro4 {
-
-    public class BaitapHT4 {
         //    Bài 1 Viết chương trình cho phép nhập độ dài của mảng, sau đó sử dụng vòng lặp for để nhập giá trị cho từng phần tử của mảng và in ra các phần tử trong mảng.
         public static void main(String[] args) {
             System.out.print("Chiều dài của mảng: ");
@@ -57,4 +55,4 @@ public class baitaphotro4 {
 
 
 
-}
+
