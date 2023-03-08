@@ -1,3 +1,5 @@
+package baitaphotro_07032023;
+
 public class thuchanhlophinhtron {
     private double radius;
     private String color;

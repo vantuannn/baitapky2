@@ -1,3 +1,5 @@
+package baitaphotro_07032023;
+
 import java.util.Scanner;
 
 public class thuchanhlophinhchunhat {

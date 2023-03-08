@@ -1,3 +1,5 @@
+package baitaphotro_07032023;
+
 public class phuongtrinhbac2 {
     public static void main(String[] args) {
         QuadraticEquation quadraticEquation = new QuadraticEquation(1,-3,2);
@@ -59,6 +61,5 @@ class QuadraticEquation {
     public void setC(int c) {
         this.c = c;
     }
-
 }
 
